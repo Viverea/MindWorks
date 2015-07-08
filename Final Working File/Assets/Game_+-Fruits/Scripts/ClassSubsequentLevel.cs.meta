@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: bbaf15a8044b93e489829f411ed5ce31
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_tSecondFruit: {fileID: 2800000, guid: a9c10920a72d2b74d99f15e2c29c5acc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

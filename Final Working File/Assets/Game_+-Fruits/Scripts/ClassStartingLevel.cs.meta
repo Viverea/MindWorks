@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 6a38dd98cae6d7649946fc08dd726809
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_tFirstFruit: {fileID: 2800000, guid: a9c10920a72d2b74d99f15e2c29c5acc, type: 3}
+  - m_tSecondFruit: {fileID: 2800000, guid: a9c10920a72d2b74d99f15e2c29c5acc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

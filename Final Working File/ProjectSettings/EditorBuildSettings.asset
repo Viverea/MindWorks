@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu/Scenes/Menu_Main.unity
+  - enabled: 1
+    path: Assets/Menu/Scenes/Menu_Selection.unity
+  - enabled: 1
+    path: Assets/Game_Conveyor/Scene/Game_Conveyor_Select.unity
+  - enabled: 1
+    path: Assets/Game_Conveyor/Scene/Game_Conveyor_Easy.unity
+  - enabled: 1
+    path: Assets/Game_Conveyor/Scene/Game_Conveyor_Hard.unity
+  - enabled: 1
+    path: Assets/Game_ColourSequencing/Scene/Game_ColourSequencing_Select.unity
+  - enabled: 1
+    path: Assets/Game_ColourSequencing/Scene/Game_ColourSequencing_Easy.unity
+  - enabled: 1
+    path: Assets/Game_ColourSequencing/Scene/Game_ColourSequencing_Hard.unity
+  - enabled: 0
+    path: Assets/Game_Dice/Scenes/Game_Dice_Select.unity
+  - enabled: 0
+    path: Assets/Game_Dice/Scenes/Game_Dice_Easy.unity
+  - enabled: 0
+    path: Assets/Game_Dice/Scenes/Game_Dice_Hard.unity
+  - enabled: 1
+    path: Assets/Game_MentalMath/Scenes/Game_MentalMath_Select.unity
+  - enabled: 1
+    path: Assets/Game_MentalMath/Scenes/Game_MentalMath_Easy.unity
+  - enabled: 1
+    path: Assets/Game_MentalMath/Scenes/Game_MentalMath_Hard.unity
+  - enabled: 1
+    path: Assets/Game_NumberTapper/Scenes/Game_NumberTapper_Select.unity
+  - enabled: 1
+    path: Assets/Game_NumberTapper/Scenes/Game_NumberTapper_Easy.unity
+  - enabled: 1
+    path: Assets/Game_NumberTapper/Scenes/Game_NumberTapper_Hard.unity
+  - enabled: 0
+    path: Assets/Game_OperationOperator/Scenes/Game_OperationOperator_Select.unity
+  - enabled: 0
+    path: Assets/Game_OperationOperator/Scenes/Game_OperationOperator_Easy.unity
+  - enabled: 0
+    path: Assets/Game_OperationOperator/Scenes/Game_OperationOperator_Hard.unity
+  - enabled: 0
+    path: Assets/Game_OrderTaking/Scenes/Game_OrderTaking_Select.unity
+  - enabled: 0
+    path: Assets/Game_OrderTaking/Scenes/Game_OrderTaking_Easy.unity
+  - enabled: 0
+    path: Assets/Game_OrderTaking/Scenes/Game_OrderTaking_Hard.unity
+  - enabled: 1
+    path: Assets/Game_ShapeSorting/Scenes/Game_ShapeSorting_Select.unity
+  - enabled: 1
+    path: Assets/Game_ShapeSorting/Scenes/Game_ShapeSorting_Easy.unity
+  - enabled: 1
+    path: Assets/Game_ShapeSorting/Scenes/Game_ShapeSorting_Hard.unity
+  - enabled: 0
+    path: Assets/Game_WhatsThatShadow/Scenes/Game_WhatsThatShadow_Select.unity
+  - enabled: 0
+    path: Assets/Game_WhatsThatShadow/Scenes/Game_WhatsThatShadow_Easy.unity
+  - enabled: 0
+    path: Assets/Game_WhatsThatShadow/Scenes/Game_WhatsThatShadow_Hard.unity
+  - enabled: 1
+    path: Assets/Game_CloudGame/Scenes/Game_CloudSort_Select.unity
+  - enabled: 1
+    path: Assets/Game_CloudGame/Scenes/Game_CloudSort_Easy.unity
+  - enabled: 1
+    path: Assets/Game_CloudGame/Scenes/Game_CloudSort_Hard.unity
+  - enabled: 1
+    path: Assets/Game_AvianCounter/Scenes/Game_AvianCounter_Select.unity
+  - enabled: 1
+    path: Assets/Game_AvianCounter/Scenes/Game_AvianCounter_Easy.unity
+  - enabled: 1
+    path: Assets/Game_AvianCounter/Scenes/Game_AvianCounter_Hard.unity
+  - enabled: 1
+    path: Assets/Game_+-Fruits/Scenes/Game_ForwardSums_Select.unity
+  - enabled: 1
+    path: Assets/Game_+-Fruits/Scenes/Game_ForwardSums_Easy.unity
+  - enabled: 1
+    path: Assets/Game_+-Fruits/Scenes/Game_ForwardSums_Hard.unity
+  - enabled: 1
+    path: Assets/Game_CardMatch/Card Match/Scenes/Game_CardMatch_Select.unity
+  - enabled: 1
+    path: Assets/Game_CardMatch/Card Match/Scenes/Game_CardMatch_Easy.unity
+  - enabled: 1
+    path: Assets/Game_CardMatch/Card Match/Scenes/Game_CardMatch_Hard.unity
+  - enabled: 1
+    path: Assets/Game_FlySwatter/Scenes/Game_FlySwatter_Select.unity
+  - enabled: 1
+    path: Assets/Game_FlySwatter/Scenes/Game_FlySwatter_Easy.unity
+  - enabled: 1
+    path: Assets/Game_FlySwatter/Scenes/Game_FlySwatter_Hard.unity
+  - enabled: 0
+    path: Assets/Game_CircularPattern/Scenes/Game_CircularPattern_Easy.unity
+  - enabled: 0
+    path: Assets/Game_CircularPattern/Scenes/Game_CircularPattern_Hard.unity
+  - enabled: 0
+    path: Assets/Game_CircularPattern/Scenes/Game_CircularPattern_Select.unity
+  - enabled: 1
+    path: Assets/Game_CircularPattern/Scenes/Game_CircularPattern_Easy.unity
+  - enabled: 1
+    path: Assets/Game_CircularPattern/Scenes/Game_CircularPattern_Hard.unity
+  - enabled: 1
+    path: Assets/Game_CircularPattern/Scenes/Game_CircularPattern_Select.unity

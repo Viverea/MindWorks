@@ -1,0 +1,79 @@
+syntax: glob
+Library
+Temp
+*.pidb
+*.sln
+*.userprefs
+*.csprog
+*.orig
+Assets\Menu\Textures and Materials\Info_�Fruits.png.meta.orig.meta
+Assets\Menu\Textures and Materials\Materials\Info_�Fruits.mat
+Assets\Menu\Textures and Materials\Materials\Info_�Fruits.mat.meta
+Assets\Menu\Textures and Materials\�Fruits.png.meta.orig.meta
+Assets\Menu\Textures and Materials\Info_�Fruits.png.meta.orig.meta
+Assets\Menu\Textures and Materials\Materials\Info_�Fruits.mat
+Assets\Menu\Textures and Materials\Materials\Info_�Fruits.mat.meta
+Assets\Menu\Textures and Materials\�Fruits.png.meta.orig.meta
+Assets\Menu\Textures and Materials\Info_�Fruits.png.meta.orig.meta
+Assets\Menu\Textures and Materials\Materials\Info_�Fruits.mat
+Assets\Menu\Textures and Materials\Materials\Info_�Fruits.mat.meta
+Assets\Menu\Textures and Materials\�Fruits.png.meta.orig.meta
+Assets\Menu\Textures and Materials\Info_�Fruits.png.meta.orig.meta
+Assets\Menu\Textures and Materials\Materials\Info_�Fruits.mat
+Assets\Menu\Textures and Materials\Materials\Info_�Fruits.mat.meta
+Assets\Menu\Textures and Materials\�Fruits.png.meta.orig.meta
+Assets\Game_CircularPattern\Materials\CenterBottom.mat.orig.meta
+Assets\Game_CircularPattern\Materials\CenterBottomLeft.mat.orig.meta
+Assets\Game_CircularPattern\Materials\CenterBottomRight.mat.orig.meta
+Assets\Game_CircularPattern\Materials\CenterTop.mat.orig.meta
+Assets\Game_CircularPattern\Materials\CenterTopLeft.mat.orig.meta
+Assets\Game_CircularPattern\Materials\CenterTopRight.mat.orig.meta
+Assets\Game_CircularPattern\Materials\OuterBottom.mat.orig.meta
+Assets\Game_CircularPattern\Materials\OuterBottomLeft.mat.orig.meta
+Assets\Game_CircularPattern\Materials\OuterBottomRight.mat.orig.meta
+Assets\Game_CircularPattern\Materials\OuterTop.mat.orig.meta
+Assets\Game_CircularPattern\Materials\OuterTopLeft.mat.orig.meta
+Assets\Game_CircularPattern\Materials\OuterTopRight.mat.orig.meta
+Assets\Game_CircularPattern\Models\Materials\lambert1.mat.orig.meta
+Assets\Game_NumberTapper\Materials\BackButton 1.mat.orig.meta
+Assets\Game_NumberTapper\Materials\BackGround 1.mat.orig.meta
+Assets\Game_NumberTapper\Materials\CheckButton.mat.orig.meta
+Assets\Game_NumberTapper\Materials\DifficultySelect.mat.orig.meta
+Assets\Game_NumberTapper\Materials\Help 1.mat.orig.meta
+Assets\Game_NumberTapper\Materials\TapThisNumber.mat.orig.meta
+Assets\Menu\Textures and Materials\AvianCounter.png.meta.orig.meta
+Assets\Menu\Textures and Materials\CardMatch.png.meta.orig.meta
+Assets\Menu\Textures and Materials\CloudGame.png.meta.orig.meta
+Assets\Menu\Textures and Materials\ColourSequencing.png.meta.orig.meta
+Assets\Menu\Textures and Materials\Conveyor.png.meta.orig.meta
+Assets\Menu\Textures and Materials\Dice.png.meta.orig.meta
+Assets\Menu\Textures and Materials\FlySwatter.png.meta.orig.meta
+Assets\Menu\Textures and Materials\Icon_Temp.png.meta.orig.meta
+Assets\Menu\Textures and Materials\Info_AvianCounter.png.meta.orig.meta
+Assets\Menu\Textures and Materials\Info_CardMatch.png.meta.orig.meta
+Assets\Menu\Textures and Materials\Info_CloudSort.png.meta.orig.meta
+Assets\Menu\Textures and Materials\Info_ColourSequencing.png.meta.orig.meta
+Assets\Menu\Textures and Materials\Info_Conveyor.png.meta.orig.meta
+Assets\Menu\Textures and Materials\Info_DiceGame.png.meta.orig.meta
+Assets\Menu\Textures and Materials\Info_FlySwatter.png.meta.orig.meta
+Assets\Menu\Textures and Materials\Info_ForwardSums.png.meta.orig.meta
+Assets\Menu\Textures and Materials\Info_MentalMath.png.meta.orig.meta
+Assets\Menu\Textures and Materials\Info_NumberTapper.png.meta.orig.meta
+Assets\Menu\Textures and Materials\Info_OperationOperator.png.meta.orig.meta
+Assets\Menu\Textures and Materials\Info_OrderTaking.png.meta.orig.meta
+Assets\Menu\Textures and Materials\Info_ShapeSorting.png.meta.orig.meta
+Assets\Menu\Textures and Materials\Info_WhatsThatShadow.png.meta.orig.meta
+Assets\Menu\Textures and Materials\MainMenu_BG.png.meta.orig.meta
+Assets\Menu\Textures and Materials\MentalMath.png.meta.orig.meta
+Assets\Menu\Textures and Materials\NextPage.png.meta.orig.meta
+Assets\Menu\Textures and Materials\NumberTapper.png.meta.orig.meta
+Assets\Menu\Textures and Materials\OperationOperator.png.meta.orig.meta
+Assets\Menu\Textures and Materials\Play_Button.png.meta.orig.meta
+Assets\Menu\Textures and Materials\PrevPage.png.meta.orig.meta
+Assets\Menu\Textures and Materials\ShapeSorting.png.meta.orig.meta
+Assets\Menu\Textures and Materials\WhatsThatShadow.png.meta.orig.meta
+Assets\Menu\Textures and Materials\main_login.png.meta.orig.meta
+Assets\Sounds\BA_Back.wav.meta.orig.meta
+Assets\Sounds\BA_Correct.wav.meta.orig.meta
+Assets\Sounds\Correct 1.mp3.meta.orig.meta
+Assets\Sounds\Wrong 3.mp3.meta.orig.meta
